@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダンスミュージックの果てで",
+  "base_artist": "こーしんぬ",
+  "createdAt": "2026-02-09T11:10:32.723683Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダンスミュージックの果てで",
+      "artist": "こーしんぬ",
+      "has_synced": false,
+      "path": "select/pl_01_ダンスミュージックの果てで_こーしんぬ.txt"
+    }
+  ]
+}
